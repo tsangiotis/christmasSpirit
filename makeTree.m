@@ -1,3 +1,9 @@
+% Modified from a plot by 
+% Anselm Ivanovas<anselm.ivanovas@student.unisg.ch>
+% URL: http://www.mathworks.com/matlabcentral/fileexchange/22478-a-christmas-tree-plot
+% Copyright (c) 2008, Anselm
+% All rights reserved.
+
 function [X,Y,Z] = makeTree
 %% draw tree
 h=0:0.2:25; %vertical grid
