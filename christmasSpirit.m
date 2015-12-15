@@ -1,7 +1,8 @@
 %% Creates a tree and puts ornamets on it
 % In a way that will not make you cringe.
 % What will make you cringe is that if you remove the diffusion from the
-% tree function there will be hell.
+% tree function there will be hell. 
+% Argument: Number of ornaments available
 function christmasSpirit(orn_num)
 [X,Y,Z] = makeTree;
 
